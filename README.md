@@ -1,14 +1,14 @@
-#SIMPLE TODO APP IMPLEMENTING MEAN STACK
+# SIMPLE TODO APP IMPLEMENTING MEAN STACK
 
 client - Angular FrontEnd
 server - Node+Express+MongoDB Backend
 
-###Prerequisites:
+### Prerequisites:
 
 1. Node.js & npm installed
 2. MongoDB installed
 
-###To run the app:
+### To run the app:
 
 1. Download this repo
 2. Open terminal in the root directory(Simple-Todo-MEANStack)
