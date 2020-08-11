@@ -17,12 +17,12 @@ To run the app:
 5. cd to client
 6. Run 'npm install' command
 
-\*\*\*Start the server
+***Start the server
 
 6. cd to server
 7. Run 'node server.js' or 'npm run serverstart'(if nodemon is installed)
 
-\*\*\*Start the client
+***Start the client
 
 8. Open another terminal
 9. cd to client
