@@ -1,7 +1,7 @@
 # SIMPLE TODO APP IMPLEMENTING MEAN STACK
 
-client - Angular FrontEnd
-server - Node+Express+MongoDB Backend
+- client - Angular FrontEnd
+- server - Node+Express+MongoDB Backend
 
 ### Prerequisites:
 
@@ -33,3 +33,4 @@ NOTE:
 
 - To **Edit** the Task Description, click on it, edit and click anywhere else on the screen and the decription will be updated
 - To **Delete** a task click on the 'X' mark presnt in front of task name
+- To **Mark Complete** click on the **Done** button in front of the task
